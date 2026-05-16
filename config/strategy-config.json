@@ -1,0 +1,14 @@
+{
+  "strategy": {
+    "movingAverage": {
+      "enabled": true,
+      "shortWindow": 5,
+      "longWindow": 20
+    }
+  },
+  "riskManagement": {
+    "stopLoss": 0.02,
+    "takeProfit": 0.05,
+    "positionSize": 0.01
+  }
+}
